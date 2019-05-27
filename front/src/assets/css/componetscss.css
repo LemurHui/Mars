@@ -1,0 +1,17 @@
+/*NoticeList.vue文件里的样式*/
+.notice-list{
+    position: fixed;
+    top: 310px;
+    left: 50px;
+    height: 600px;
+    width: 230px;
+    z-index: 10;
+}
+
+/*Display.vue文件里的样式*/
+
+
+
+/*Manage里的样式*/
+
+
